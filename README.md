@@ -1,2 +1,5 @@
 # MASM64
 Assembly of tools for MASM64
+The bin directory contains an asm.bat file that allows automatic compilation and linking.
+It is enough to associate .asm files with it. 
+Archive password [vra1973roman]
